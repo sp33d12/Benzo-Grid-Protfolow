@@ -160,6 +160,7 @@ body{
 .item .box .box1 p{
     font-style: normal;
     font-family: 'Times New Roman', Times, serif;
+    width: 7em;
 }
 .item .contain .info{
     display: block;
